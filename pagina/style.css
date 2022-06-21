@@ -3,6 +3,8 @@
     position: fixed;
     bottom: 30px;
     right: 30px;
+    border: white;
+    border-radius: 20%;
 
 }
 .whatsapp img{
