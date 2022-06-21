@@ -1,0 +1,148 @@
+
+.whatsapp{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+
+}
+.whatsapp img{
+    height: 100px;
+    width: 100px;
+}
+.local{
+    margin-top: 30px;
+    height: 400px;
+    width: 80%;
+    margin-left: 100px;
+    
+
+}
+header{
+    position: sticky;top:1px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ecececc0;
+    border-bottom: solid black 2px;
+
+}
+
+body{
+    background:lightgray;
+margin: 0px;
+padding: 0px;}
+
+.sub-foto{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+article img{
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+
+}
+section{
+    background-color: lightgray;
+    flex-wrap: wrap;
+}
+article div{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+form{
+    border: solid black 2px;
+}
+    
+button{
+    position:relative;
+    height: 10px;
+    width: 10px;
+    padding: 0px;
+    border: 0px;
+}
+
+.lupita{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    right: 10px;
+    padding: 0px;
+    top:-7px;
+    right: -30px;
+    margin-top: 0px;
+}
+
+
+.navbar-nav span {
+    color: red;}
+.navbar-nav {
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;}
+
+li{
+    display: inline;
+    margin-left: 30px;
+}
+a{
+    color:black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto-centro{
+    justify-content: center;
+}
+
+.logo-bonet{
+    height: 80px;
+    width: 80px;
+}
+.imagen-header{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding-left: 50px;
+}
+.container{
+    width: 150px;
+    padding: 5%;
+    display: flex;
+    text-align: center;
+    height: 1px;
+}
+
+.search-bar{
+    width: 90%;
+    height: 5%;
+    max-width: 100%;
+    background: rgba(255, 255, 255, 0.8);
+    display:flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+}
+.search-bar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 10px;
+    color: #0e0872
+}
+
+.imagen-centro{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+
